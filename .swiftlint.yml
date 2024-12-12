@@ -1,0 +1,5 @@
+disabled_rules:
+  - trailing_whitespace
+  - static_over_final_class
+included:
+  - Hw6
